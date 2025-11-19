@@ -1,0 +1,1 @@
+# denog-wg-access
