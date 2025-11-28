@@ -8,7 +8,7 @@ This guide is edited by the DENOG Working Group (WG) Access. You don't need to b
 
 ## Contribute
 
-You can contribute to this routing guide on [github.com/denog/routing-guide/](https://github.com/denog/denog-wg-access/) using GitHubs issues or pull request features.
+You can contribute to this repostory on [github.com/denog/denog-wg-access](htthttps://github.com/denog/denog-wg-access) using GitHubs issues or pull request features.
 
 We have a [Code of Conduct](https://github.com/denog/denog-wg-access/blob/main/CODE_OF_CONDUCT.md) as a common ground for collaboration.
 
@@ -43,4 +43,4 @@ ec
 
 # License
 
-Content is available under the [Creative Commons Attribution License 4.0](https://raw.githubusercontent.com/denog/routing-guide/main/LICENSE.md), unless otherwise stated.
+Content is available under the [Creative Commons Attribution License 4.0](https://github.com/denog/denog-wg-access/blob/main/LICENSE.md), unless otherwise stated.
