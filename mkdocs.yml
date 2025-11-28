@@ -1,5 +1,5 @@
-site_name: DENOG Routing Guide
-repo_url: https://github.com/denog/routing-guide
+site_name: DENOG Working Group (WG) Access
+repo_url: https://github.com/denog/denog-wg-access
 edit_uri: edit/main/docs/
 extra_css:
   - stylesheets/extra.css
@@ -76,4 +76,4 @@ extra:
     OpenBGPD missing: OpenBGPD
     VyOS missing: VyOS
     Text missing: Text
-copyright: Licensed under the <a href="https://raw.githubusercontent.com/denog/routing-guide/main/LICENSE.md">Creative Commons Attribution License 4.0</a>, unless otherwise stated | <a href="https://www.denog.de/de/impressum.html">Imprint</a>
+copyright: Licensed under the <a href="https://github.com/denog/denog-wg-access/blob/main/LICENSE.md">Creative Commons Attribution License 4.0</a>, unless otherwise stated | <a href="https://www.denog.de/de/impressum.html">Imprint</a>
