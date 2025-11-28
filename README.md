@@ -1,6 +1,6 @@
 # DENOG Working Group (WG) Access
 
-This guide is intended to act as a reference for best practices in internet access. Its goal is to make the Internet more stable, secure and sustainable by educating both new and experienced network engineers.
+This repository serves as a reference for best practices in operating an access network (ISP). It covers a wide range of topics, including BNG, GPON, xDSL, DOCSIS, L2BSA, and RADIUS, and provides a platform for sharing configuration blueprints. The ultimate goal is to enhance the stability, security, and sustainability of the internet through the education of both new and experienced network engineers.
 
 # Working Group
 
