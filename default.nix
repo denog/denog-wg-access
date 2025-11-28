@@ -2,7 +2,7 @@
 }:
 
 pkgs.stdenv.mkDerivation {
-  name = "denog-routing-guide";
+  name = "denog-access-guide";
 
   src = ./.;
 

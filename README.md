@@ -1,6 +1,6 @@
 # DENOG Working Group (WG) Access
 
-This guide is intended to act as a reference for best practices in Internet backbone routing. Its goal is to make the Internet more stable, secure and sustainable by educating both new and experienced network engineers.
+This guide is intended to act as a reference for best practices in internet access. Its goal is to make the Internet more stable, secure and sustainable by educating both new and experienced network engineers.
 
 # Working Group
 
@@ -18,7 +18,7 @@ The DENOG Working Group (WG) Access mailing list can be joined at [Google Groups
 
 ## Deployment
 
-The main branch is deployed to [...](https://denog.de) automatically.
+The main branch is deployed to [https://www.denog.de/denog-wg-access/](https://www.denog.de/denog-wg-access/) automatically.
 
 ## Development
 
