@@ -1,0 +1,79 @@
+site_name: DENOG Routing Guide
+repo_url: https://github.com/denog/routing-guide
+edit_uri: edit/main/docs/
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+  font: false
+  features:
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+    - search.suggest
+  icon:
+    edit: material/pencil
+    view: material/eye
+    tag:
+      Cisco: simple/cisco
+      Huawei: simple/huawei
+      Junos: simple/junipernetworks
+      Mikrotik: simple/mikrotik
+      Nokia: simple/nokia
+      default: material/router
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: 'yellow'
+      accent: 'yellow'
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: 'yellow'
+      accent: 'yellow'
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+markdown_extensions:
+  # Emojis disabled because certain strings which contain a colon character
+  # (i.e., IPv6 addresses, BGP communities) are interpreted as emojis
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:material.extensions.emoji.twemoji
+  #     emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - footnotes
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+plugins:
+  - git-revision-date-localized
+  - tags
+  - search
+extra:
+  status:
+    <identifier>: <description>
+  tags:
+    Arista missing: arista
+    BIRD missing: BIRD
+    Cisco missing: Cisco
+    Cisco IOS XR missing: Cisco
+    FRR missing: FRR
+    Huawei VRP missing: Huawei
+    Junos missing: Junos
+    Mikrotik missing: Mikrotik
+    Nokia SR OS missing: Nokia
+    OpenBGPD missing: OpenBGPD
+    VyOS missing: VyOS
+    Text missing: Text
+copyright: Licensed under the <a href="https://raw.githubusercontent.com/denog/routing-guide/main/LICENSE.md">Creative Commons Attribution License 4.0</a>, unless otherwise stated | <a href="https://www.denog.de/de/impressum.html">Imprint</a>
