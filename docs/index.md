@@ -1,6 +1,6 @@
-# DENOG Working Group (WG) Access
+# DENOG Working Group Access
 
-Die Working Group (WG) Access soll ein dediziertes Forum für den Austausch und
+Die **Working Group (WG) Access** soll ein dediziertes Forum für den Austausch und
 die Erarbeitung von Lösungen rund um nationale Themen im Bereich der Internet 
 Service Provider (ISP) und Access-Infrastrukturen in Deutschland schaffen. Im 
 Fokus stehen jene spezifischen Herausforderungen und Fragestellungen, die aufgrund 

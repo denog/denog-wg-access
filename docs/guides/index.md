@@ -1,1 +1,1 @@
-# DENOG Access Guides
+# Access Guides
