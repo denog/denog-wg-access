@@ -8,7 +8,7 @@ This guide is edited by the DENOG Working Group (WG) Access. You don't need to b
 
 ## Contribute
 
-You can contribute to this repostory on [github.com/denog/denog-wg-access](htthttps://github.com/denog/denog-wg-access) using GitHubs issues or pull request features.
+You can contribute to this repostory on [github.com/denog/denog-wg-access](https://github.com/denog/denog-wg-access) using GitHubs issues or pull request features.
 
 We have a [Code of Conduct](https://github.com/denog/denog-wg-access/blob/main/CODE_OF_CONDUCT.md) as a common ground for collaboration.
 
@@ -18,7 +18,7 @@ The DENOG Working Group (WG) Access mailing list can be joined at [Google Groups
 
 ## Deployment
 
-The main branch is deployed to [https://www.denog.de/denog-wg-access/](https://www.denog.de/denog-wg-access/) automatically.
+The main branch is deployed to [http://access.denog.de/](http://access.denog.de/) automatically.
 
 ## Development
 
