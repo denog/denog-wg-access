@@ -8,7 +8,8 @@ auch über einen [Matrix Chat](https://matrix.to/#/#denog-wg-access:matrix.org) 
 
 ## Co-Chairs
 
-[Andreas Kimpfler](https://www.linkedin.com/in/andreas-kimpfler-b21244391/) und [Christian Giese](https://www.linkedin.com/in/gic-de/)
+[Andreas Kimpfler](https://www.linkedin.com/in/andreas-kimpfler-b21244391/) (andreas@denog.de) und 
+[Christian Giese](https://www.linkedin.com/in/gic-de/) (christian@denog.de).
 
 ## Geplante Termine
 
