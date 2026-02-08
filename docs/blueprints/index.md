@@ -1,4 +1,4 @@
-# Blueprints
+# Was sind Blueprints?
 
 Dieses Repository bietet Konfigurationsvorlagen (Blueprints) für Zugangskomponenten wie BNG, MSAN und OLT sowie Dienste wie RADIUS.
 

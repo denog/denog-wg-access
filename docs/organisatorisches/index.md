@@ -12,4 +12,6 @@ auch über einen [Matrix Chat](https://matrix.to/#/#denog-wg-access:matrix.org) 
 
 ## Geplante Termine
 
-Der nächste Termin der Working Group ist im Rahmen der DENOG Member Days geplant. Weitere Präsenz- und virtuelle Treffen werden folgen.
+* WG Meeting @ DENOG Member Days (Q1 jedes Jahr)
+* WG Meeting @ DENOG Conference (Q4 jedes Jahr)
+* WG Meeting @ Online (TBD)
