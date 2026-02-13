@@ -16,3 +16,4 @@ auch über einen [Matrix Chat](https://matrix.to/#/#denog-wg-access:matrix.org) 
 * WG Meeting @ DENOG Member Days (Q1 jedes Jahr)
 * WG Meeting @ DENOG Conference (Q4 jedes Jahr)
 * WG Meeting @ Online (TBD)
+
