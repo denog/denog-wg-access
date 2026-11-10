@@ -16,6 +16,8 @@ auch über einen [Matrix Chat](https://matrix.to/#/#denog-wg-access:matrix.org) 
 * WG Meeting @ DENOG Member Days, 06. - 07.02.2026
 * WG Meeting @ Online, Mittwoch, 06.05.2026 19:00 Uhr (Erstes Online Meeting)
 * WG Meeting @ Online, Mittwoch, 10.06.2026 19:00 Uhr (Legal Interception)
-* WG Meeting @ [DENOG18](https://www.denog.de/de/meetings/denog18/), 15. - 17.11.2026
+* WG Meeting @ Online, Mittwoch, 15.07.2026 19:00 Uhr
+* WG Meeting @ Online, Mittwoch, 23.09.2026 19:00 Uhr
+* WG Meeting @ [DENOG18](https://www.denog.de/de/meetings/denog18/), 17.11.2026 14:10 Uhr (Raum 901)
 
 Die Zugangsdaten für die Online Meeting werden über die Mailing Liste verteilt.
